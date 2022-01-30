@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlackFr0st99
 - 👀 I’m interested in learning how to program
-- 🌱 I’m currently learning Javascript on my own without any computer base
+- 🌱 I’m currently learning Javascript on my own
 - 
 - 
 
